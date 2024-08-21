@@ -1,1 +1,1 @@
-Aprendendo a usar o git pelo cmd # AulaDevOps
+Aprendendo a usar o git # AulaDevOps
